@@ -175,12 +175,12 @@ i {
     .webAppsImg {
         border-radius: 7px;
         mix-blend-mode: multiply;
-        width: 175px;
-        height: 300px;
+        width: 240px;
+        height: 390px;
     }
 
     .webAppsCaption {
-        max-width: 175px;
+        max-width: 240px;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
