@@ -252,6 +252,15 @@ i {
             width: 280px;
         }
     }
+
+    #p-webApps #s-main-webApps .webAppsImg {
+        width: 220px;
+        height: 380px;
+    }
+
+    #p-webApps #s-main-webApps .webAppsCaption {
+        max-width: 220px;
+    }
 }
 
 @media screen and (max-width: 800px) {
