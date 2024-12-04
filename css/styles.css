@@ -97,7 +97,10 @@ i {
 
 #p-home #s-main-home {
     grid-area: s-main-home;
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-top: 13px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
