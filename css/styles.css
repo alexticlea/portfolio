@@ -36,7 +36,6 @@ nav {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 20px;
-    padding-bottom: 10px;
 }
 
 .g-footer {
@@ -100,7 +99,7 @@ i {
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 25px;
-    padding-top: 13px;
+    padding-top: 15px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -291,5 +290,5 @@ i {
             width: 280px;
             height: 380px;
         }
-    }    
+    }   
 }
